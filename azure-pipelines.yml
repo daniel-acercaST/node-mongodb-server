@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '6fa9f93b-956f-47ab-b0fe-b3b6dcbb33aa'
+  azureSubscription: '7472f2c2-6eb6-424c-be7d-aed729e5cccf'
 
   # Web app name
   webAppName: 'mongodb-server-dev'
